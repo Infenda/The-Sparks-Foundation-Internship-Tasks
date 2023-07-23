@@ -1,2 +1,3 @@
 # The-Sparks-Foundation-Internship-Tasks
-This repository contains the tasks performed during the Sparks Foundation internship
+Task 1 - Prediction using Supervised ML
+Task 2 - Prediction using Unsupervised ML
